@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISKUTASHI</title>
+    <link rel="stylesheet" href="own-project.css">
+</head>
+
+<body>
+    <div>
+        <h1>ISKUTASHI SALAD</h1>
+    </div>
+    <div>
+        <img src="images/iskutashi.png" alt="image" id="photo">
+    </div>
+    <div>
+        <h2 id="artists">Favorite Music Artists</h2>
+        <ul>
+            <li>Maroon 5</li>
+            <li>Dua Lipa</li>
+            <li>Eminem</li>
+            <li>Sharma Boy</li>
+            <li>Dayax Dalnuurshe</li>
+        </ul>
+    </div>
+    <div>
+        <h2 id="films">Favorite Films</h2>
+        <ol>
+            <li>Minions</li>
+            <li>Arday</li>
+            <li>The night agent</li>
+            <li>Tomorrow War</li>
+            <li>The 100</li>
+        </ol>
+    </div>
+    <div>
+        <a href="https://www.meta.com/">My Profile</a>
+    </div>
+</body>
+
+</html>
